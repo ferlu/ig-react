@@ -143,3 +143,12 @@ p {
   font-size: 1.5rem;
   margin: 0 1rem 0 0;
 }
+
+.post p,
+.post span {
+  font-size: 14px;
+}
+
+.post i {
+  font-size: 20px;
+}
