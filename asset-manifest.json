@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/ig-react/static/css/main.0a8c2952.chunk.css",
+    "main.js": "/ig-react/static/js/main.5ff95dab.chunk.js",
+    "main.js.map": "/ig-react/static/js/main.5ff95dab.chunk.js.map",
+    "runtime-main.js": "/ig-react/static/js/runtime-main.7c825c85.js",
+    "runtime-main.js.map": "/ig-react/static/js/runtime-main.7c825c85.js.map",
+    "static/js/2.d8325616.chunk.js": "/ig-react/static/js/2.d8325616.chunk.js",
+    "static/js/2.d8325616.chunk.js.map": "/ig-react/static/js/2.d8325616.chunk.js.map",
+    "static/js/3.249c52c7.chunk.js": "/ig-react/static/js/3.249c52c7.chunk.js",
+    "static/js/3.249c52c7.chunk.js.map": "/ig-react/static/js/3.249c52c7.chunk.js.map",
+    "index.html": "/ig-react/index.html",
+    "static/css/main.0a8c2952.chunk.css.map": "/ig-react/static/css/main.0a8c2952.chunk.css.map",
+    "static/js/2.d8325616.chunk.js.LICENSE.txt": "/ig-react/static/js/2.d8325616.chunk.js.LICENSE.txt",
+    "static/media/ramen.fdc501a0.png": "/ig-react/static/media/ramen.fdc501a0.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7c825c85.js",
+    "static/js/2.d8325616.chunk.js",
+    "static/css/main.0a8c2952.chunk.css",
+    "static/js/main.5ff95dab.chunk.js"
+  ]
+}
