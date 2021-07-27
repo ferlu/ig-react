@@ -1,6 +1,6 @@
 import "./App.css";
 import Navbar from "./components/Navbar/Navbar";
-import Post from "./components/Post";
+import Posts from "./components/Posts";
 import { data } from "./data/data";
 
 function App() {
@@ -9,7 +9,7 @@ function App() {
       <Navbar></Navbar>
       <div className="flex container">
         <div className="posts-container">
-          <Post data={data}></Post>
+          <Posts data={data}></Posts>
         </div>
         <div className="suggestions-container">asdasd</div>
       </div>
